@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../VS Code Workspace/Website V1"
+		},
+		{
+			"path": "../../VS Code Workspace/Components"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Website V1"
+	}
+}
