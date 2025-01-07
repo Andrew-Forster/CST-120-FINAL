@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "../../VS Code Workspace/Components"
+		},
+		{
+			"name": "CST-120-FINAL",
+			"path": "CST-120-FINAL"
 		}
 	],
 	"settings": {
